@@ -1,0 +1,24 @@
+/* CSS-file */
+
+.found-all {
+	background-color: yellow;
+}
+
+.found-current {
+	background-color: lime;
+}
+
+#control-block {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	z-index: 1;
+	padding: 5px;
+	background-color: gainsboro;
+}
+
+#search-block {
+	position: absolute;
+	margin-top: 105px;
+}
